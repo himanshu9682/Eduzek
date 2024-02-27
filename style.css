@@ -1636,6 +1636,7 @@ body,
 .banner-area.auto-height,
 .banner-area.auto-height div {
   height: auto;
+  background-color: rgb(225, 247, 245);
 }
 
 .banner-area.auto-height .content {
