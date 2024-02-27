@@ -228,7 +228,6 @@ a.more-btn::after {
   position: absolute;
   top: 50%;
   right: 0;
-  content: "";
   height: 2px;
   width: 30px;
   background: #92d050;
@@ -2289,6 +2288,7 @@ body,
   font-size: 60px;
   margin-bottom: 25px;
   text-transform: capitalize;
+  text-align: left;
 }
 
 .banner-box.banner-area .thumb {
@@ -7844,7 +7844,7 @@ select {
      # Footer
 =================================================================== */
 footer {
-  background-image: url(img/header-bg5.gif);
+  background-image: url(/img/header-bg5.gif);
 }
 
 footer .item {
